@@ -1,5 +1,6 @@
 # TicTacToe
 First of all you need to install pygame in your python console by typing: 'pip install pygame', then you're ready to compile this code.
+
 This's a simple Python script for the game "TicTacToe" for two players. I used pygame for the nice graphics. Now I'll explain my functions I wrote in this game. You have all rights for using these files.
 
 printMouse(turn): This function prints out the Mouse Pointer. There're 2 diffrent ones. Both are in the folder "Graphics".
