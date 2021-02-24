@@ -1,3 +1,7 @@
+#Author: Benedikt Walter
+#Date: 24.02.2021
+#Project: TicTacToe
+
 import pygame
 from pygame.locals import *
 
